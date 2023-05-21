@@ -2,7 +2,7 @@
 
 ## React .env
 
-* VITE_API_URL=YOUR_SERVER_PORT.
+* VITE_API_URL=YOUR_SERVER_URL.
 
 ## Nodejs .env
 
